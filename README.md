@@ -1,7 +1,5 @@
 # Salus
 
--------
-
 ## Background
 
 An application to remove YouTube channels that haven't uploaded recently from
